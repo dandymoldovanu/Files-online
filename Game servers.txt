@@ -129,3 +129,4 @@
 .geforcenow.com
 .xboxcloudgaming.com
 .playstationcloud.com
+.scws-content.net
