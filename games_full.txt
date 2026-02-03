@@ -36,6 +36,7 @@ lms.roblox.com
 locale.roblox.com
 metrics.roblox.com
 oauth.battle.net
+playstationcloud.com
 presence-public-service-prod.ccec.live.use1a.on.epicgames.com
 presence-public-service-prod.ol.epicgames.com
 presence.roblox.com
@@ -55,5 +56,7 @@ voice.roblox.com
 weighted-account-public-service-prod.ak.epicgames.com
 weighted-account-service-prod-pub-ak.faef.live.use1a.on.epicgames.com
 weighted-launcher-public-service-prod06.ol.epicgames.com
+www.playstationcloud.com
+xboxcloudgaming.com
 xboxlive.com
 xboxservices.com
