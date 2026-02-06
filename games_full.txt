@@ -44,6 +44,7 @@ privacy.xboxlive.com
 pulsar.roblox.com
 rbxcdn.com
 roblox.com
+s.youtube.com
 sc0ak.rbxcdn.com
 shop.battle.net
 sin4-128-116-50-3.roblox.com
