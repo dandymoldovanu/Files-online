@@ -5,10 +5,12 @@ clientsettingsns1.rbxcdn.com
 edge-term4-fra2.roblox.com
 edge-term4-fra4.roblox.com
 edge-term4.roblox.com
+ffxiv-login.square-enix.com
 friends.roblox.com
 ncs.roblox.com
 presence.roblox.com
 roblox.com
+square-enix.com
 steamcommunity.com
 titanium.roblox.com
 users.roblox.com
