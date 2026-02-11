@@ -2,11 +2,13 @@ apis.roblox.com
 client-telemetry.roblox.com
 clientsettingscdn.roblox.com
 clientsettingsns1.rbxcdn.com
+edge-term4-fra2.roblox.com
 edge-term4-fra4.roblox.com
 edge-term4.roblox.com
 friends.roblox.com
 ncs.roblox.com
 presence.roblox.com
 roblox.com
+steamcommunity.com
 titanium.roblox.com
 users.roblox.com
