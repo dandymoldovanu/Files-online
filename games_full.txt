@@ -1,10 +1,17 @@
 apis.roblox.com
+assets.unrealengine.com
+cdn-0001.qstv.on.epicgames.com
+cdn2-dest.unrealengine.com
+cdn2.unrealengine.com
 client-telemetry.roblox.com
 clientsettingscdn.roblox.com
 clientsettingsns1.rbxcdn.com
+cms-assets.unrealengine.com
+components.unrealengine.com
 edge-term4-fra2.roblox.com
 edge-term4-fra4.roblox.com
 edge-term4.roblox.com
+epicgames.com
 ffxiv-login.square-enix.com
 friends.roblox.com
 ncs.roblox.com
@@ -12,5 +19,9 @@ presence.roblox.com
 roblox.com
 square-enix.com
 steamcommunity.com
+talon-website-prod.ecosec.on.epicgames.com
 titanium.roblox.com
+tracking-site-prod.marketing.on.epicgames.com
+unrealengine.com
 users.roblox.com
+www.unrealengine.com
