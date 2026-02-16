@@ -18,6 +18,7 @@ clientsettingsns1.rbxcdn.com
 cms-assets.unrealengine.com
 components.unrealengine.com
 connect.epicgames.dev
+connect.ol.epicgames.com
 datarouter-weighted.ol.epicgames.com
 datarouter.cfef.live.use1a.on.epicgames.com
 datarouter.ol.epicgames.com
@@ -65,6 +66,7 @@ weighted-account-service-prod-pub-ak.faef.live.use1a.on.epicgames.com
 weighted-catalog-public-service-live.ol.epicgames.com
 weighted-catalog-public-service-prod.fcac.live.use1a.on.epicgames.com
 weighted-epic-connect-manager-prod.epicgames.dev
+weighted-epic-connect-manager-prod.ol.epicgames.com
 weighted-launcher-public-service-prod06.ol.epicgames.com
 weighted-priceengine-public-service-prod.ol.epicgames.com
 www.unrealengine.com
