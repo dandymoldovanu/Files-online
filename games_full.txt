@@ -1,4 +1,7 @@
+a204avoddashs3ww-a.akamaihd.net
+a225avoddashs3ww-a.akamaihd.net
 account-public-service-prod.ak.epicgames.com
+akamaihd.net
 api.epicgames.dev
 api.minecraftservices.com
 api.steampowered.com
