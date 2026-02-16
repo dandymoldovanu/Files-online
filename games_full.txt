@@ -7,6 +7,7 @@ api.minecraftservices.com
 api.steampowered.com
 apis.roblox.com
 assets.unrealengine.com
+catalog-public-service-prod06.ol.epicgames.com
 cdn-0001.qstv.on.epicgames.com
 cdn2-dest.unrealengine.com
 cdn2.unrealengine.com
@@ -41,6 +42,8 @@ ncs.roblox.com
 presence-public-service-prod.ccec.live.use1a.on.epicgames.com
 presence-public-service-prod.ol.epicgames.com
 presence.roblox.com
+priceengine-public-service-ecomprod01.ol.epicgames.com
+priceengine-public-service-prod.cdce.live.use1a.on.epicgames.com
 privacy.xboxlive.com
 realtime-signalr.roblox.com
 roblox.com
@@ -59,8 +62,11 @@ unrealengine.com
 users.roblox.com
 weighted-account-public-service-prod.ak.epicgames.com
 weighted-account-service-prod-pub-ak.faef.live.use1a.on.epicgames.com
+weighted-catalog-public-service-live.ol.epicgames.com
+weighted-catalog-public-service-prod.fcac.live.use1a.on.epicgames.com
 weighted-epic-connect-manager-prod.epicgames.dev
 weighted-launcher-public-service-prod06.ol.epicgames.com
+weighted-priceengine-public-service-prod.ol.epicgames.com
 www.unrealengine.com
 xboxlive.com
 xboxservices.com
