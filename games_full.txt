@@ -26,6 +26,7 @@ edge-term4.roblox.com
 ephemeralcounters.api.roblox.com
 epicgames.com
 epicgames.dev
+fern.xboxservices.com
 ffxiv-login.square-enix.com
 friends.roblox.com
 minecraftservices.com
@@ -34,6 +35,7 @@ ncs.roblox.com
 presence-public-service-prod.ccec.live.use1a.on.epicgames.com
 presence-public-service-prod.ol.epicgames.com
 presence.roblox.com
+privacy.xboxlive.com
 realtime-signalr.roblox.com
 roblox.com
 sessionserver.mojang.com
@@ -54,4 +56,5 @@ weighted-account-service-prod-pub-ak.faef.live.use1a.on.epicgames.com
 weighted-epic-connect-manager-prod.epicgames.dev
 www.unrealengine.com
 xboxlive.com
+xboxservices.com
 xsts.auth.xboxlive.com
