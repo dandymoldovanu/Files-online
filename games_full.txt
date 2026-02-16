@@ -28,6 +28,8 @@ edge-term4-fra2.roblox.com
 edge-term4-fra4.roblox.com
 edge-term4-lhr4.roblox.com
 edge-term4.roblox.com
+entitlement-public-service-prod.edcb.live.use1a.on.epicgames.com
+entitlement-public-service-prod08.ol.epicgames.com
 ephemeralcounters.api.roblox.com
 epicgames.com
 epicgames.dev
@@ -65,6 +67,7 @@ weighted-account-public-service-prod.ak.epicgames.com
 weighted-account-service-prod-pub-ak.faef.live.use1a.on.epicgames.com
 weighted-catalog-public-service-live.ol.epicgames.com
 weighted-catalog-public-service-prod.fcac.live.use1a.on.epicgames.com
+weighted-entitlement-public-service-prod.ol.epicgames.com
 weighted-epic-connect-manager-prod.epicgames.dev
 weighted-epic-connect-manager-prod.ol.epicgames.com
 weighted-launcher-public-service-prod06.ol.epicgames.com
