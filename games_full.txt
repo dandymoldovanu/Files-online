@@ -39,6 +39,7 @@ friends.roblox.com
 launcher-public-service-prod06.ol.epicgames.com
 library-service.beee.live.use1a.on.epicgames.com
 library-service.live.use1a.on.epicgames.com
+lightswitch-public-service-prod06.ol.epicgames.com
 minecraftservices.com
 mojang.com
 ncs.roblox.com
@@ -71,6 +72,7 @@ weighted-entitlement-public-service-prod.ol.epicgames.com
 weighted-epic-connect-manager-prod.epicgames.dev
 weighted-epic-connect-manager-prod.ol.epicgames.com
 weighted-launcher-public-service-prod06.ol.epicgames.com
+weighted-lightswitch-public-service-prod06.ol.epicgames.com
 weighted-priceengine-public-service-prod.ol.epicgames.com
 www.unrealengine.com
 xboxlive.com
