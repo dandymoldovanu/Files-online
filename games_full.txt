@@ -32,6 +32,9 @@ epicgames.dev
 fern.xboxservices.com
 ffxiv-login.square-enix.com
 friends.roblox.com
+launcher-public-service-prod06.ol.epicgames.com
+library-service.beee.live.use1a.on.epicgames.com
+library-service.live.use1a.on.epicgames.com
 minecraftservices.com
 mojang.com
 ncs.roblox.com
@@ -57,6 +60,7 @@ users.roblox.com
 weighted-account-public-service-prod.ak.epicgames.com
 weighted-account-service-prod-pub-ak.faef.live.use1a.on.epicgames.com
 weighted-epic-connect-manager-prod.epicgames.dev
+weighted-launcher-public-service-prod06.ol.epicgames.com
 www.unrealengine.com
 xboxlive.com
 xboxservices.com
