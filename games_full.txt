@@ -12,6 +12,7 @@ cdn-0001.qstv.on.epicgames.com
 cdn2-dest.unrealengine.com
 cdn2.unrealengine.com
 client-telemetry.roblox.com
+client-update.fastly.steamstatic.com
 clientconfig.akamai.steamstatic.com
 clientsettingscdn.roblox.com
 clientsettingsns1.rbxcdn.com
