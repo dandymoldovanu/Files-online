@@ -18,6 +18,7 @@ device.auth.xboxlive.com
 ecsv2.roblox.com
 edge-term4-fra2.roblox.com
 edge-term4-fra4.roblox.com
+edge-term4-lhr4.roblox.com
 edge-term4.roblox.com
 ephemeralcounters.api.roblox.com
 epicgames.com
