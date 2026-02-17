@@ -131,6 +131,7 @@ tracking-site-prod.marketing.on.epicgames.com
 trades.roblox.com
 twostepverification.roblox.com
 unrealengine.com
+updatepc.xboxlive.com
 us-central-origin-px.roblox.com
 usermoderation.roblox.com
 users.roblox.com
