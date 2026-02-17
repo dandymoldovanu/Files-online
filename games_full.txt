@@ -11,6 +11,7 @@ apis.roblox.com
 assetdelivery.roblox.com
 assetgame.roblox.com
 assets.unrealengine.com
+assets1.xboxlive.com
 atl1-128-116-99-3.roblox.com
 auth.roblox.com
 avatar.roblox.com
@@ -35,6 +36,7 @@ components.unrealengine.com
 connect.epicgames.dev
 connect.ol.epicgames.com
 contacts.roblox.com
+da.xboxservices.com
 datarouter-weighted.ol.epicgames.com
 datarouter.cfef.live.use1a.on.epicgames.com
 datarouter.ol.epicgames.com
@@ -67,6 +69,7 @@ gru1-128-116-86-3.roblox.com
 iad2-128-116-56-3.roblox.com
 iad4-128-116-102-3.roblox.com
 iad5-44-197-17-243.roblox.com
+images-eds-ssl.xboxlive.com
 inventory.roblox.com
 launcher-public-service-prod06.ol.epicgames.com
 lax2-128-116-116-3.roblox.com
@@ -88,6 +91,7 @@ ncs.roblox.com
 notifications.roblox.com
 nrt2-128-116-120-3.roblox.com
 ord2-128-116-48-3.roblox.com
+packagespc.xboxlive.com
 presence-public-service-prod.ccec.live.use1a.on.epicgames.com
 presence-public-service-prod.ol.epicgames.com
 presence.roblox.com
@@ -95,6 +99,7 @@ priceengine-public-service-ecomprod01.ol.epicgames.com
 priceengine-public-service-prod.cdce.live.use1a.on.epicgames.com
 privacy.xboxlive.com
 privatemessages.roblox.com
+prod.sucu.xboxlive.com
 pulsar.roblox.com
 realtime-signalr.roblox.com
 roblox.com
