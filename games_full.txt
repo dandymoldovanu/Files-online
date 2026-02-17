@@ -3,6 +3,7 @@ a225avoddashs3ww-a.akamaihd.net
 account-public-service-prod.ak.epicgames.com
 accountsettings.roblox.com
 akamaihd.net
+ams2-128-116-21-3.roblox.com
 api.epicgames.dev
 api.minecraftservices.com
 api.steampowered.com
