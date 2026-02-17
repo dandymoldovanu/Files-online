@@ -103,6 +103,7 @@ privacy.xboxlive.com
 privatemessages.roblox.com
 prod.sucu.xboxlive.com
 pulsar.roblox.com
+qsearch-a.akamaihd.net
 realtime-signalr.roblox.com
 roblox.com
 sea1-128-116-115-3.roblox.com
