@@ -12,10 +12,12 @@ assetgame.roblox.com
 assets.unrealengine.com
 atl1-128-116-99-3.roblox.com
 auth.roblox.com
+avatar.roblox.com
 b6bca90400a36894d7f7c57ddb09a67c159c501c.ack.me.sony.com
 badges.roblox.com
 bom1-128-116-104-3.roblox.com
 catalog-public-service-prod06.ol.epicgames.com
+catalog.roblox.com
 cdg2-128-116-13-3.roblox.com
 cdn-0001.qstv.on.epicgames.com
 cdn2-dest.unrealengine.com
@@ -23,12 +25,14 @@ cdn2.unrealengine.com
 client-telemetry.roblox.com
 client-update.fastly.steamstatic.com
 clientconfig.akamai.steamstatic.com
+clientsettings.roblox.com
 clientsettingscdn.roblox.com
 clientsettingsns1.rbxcdn.com
 cms-assets.unrealengine.com
 components.unrealengine.com
 connect.epicgames.dev
 connect.ol.epicgames.com
+contacts.roblox.com
 datarouter-weighted.ol.epicgames.com
 datarouter.cfef.live.use1a.on.epicgames.com
 datarouter.ol.epicgames.com
