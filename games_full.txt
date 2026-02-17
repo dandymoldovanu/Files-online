@@ -8,6 +8,7 @@ api.epicgames.dev
 api.minecraftservices.com
 api.steampowered.com
 apis.roblox.com
+arkoselabs.roblox.com
 assetdelivery.roblox.com
 assetgame.roblox.com
 assets.unrealengine.com
