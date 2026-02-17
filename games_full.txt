@@ -64,6 +64,7 @@ gold.roblox.com
 groups.roblox.com
 gru1-128-116-86-3.roblox.com
 iad2-128-116-56-3.roblox.com
+iad4-128-116-102-3.roblox.com
 iad5-44-197-17-243.roblox.com
 inventory.roblox.com
 launcher-public-service-prod06.ol.epicgames.com
