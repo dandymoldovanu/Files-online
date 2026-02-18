@@ -137,6 +137,7 @@ twostepverification.roblox.com
 unrealengine.com
 updatepc.xboxlive.com
 us-central-origin-px.roblox.com
+user.auth.xboxlive.com
 usermoderation.roblox.com
 users.roblox.com
 voice.roblox.com
