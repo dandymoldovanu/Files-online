@@ -5,6 +5,7 @@ accountsettings.roblox.com
 akamaihd.net
 ams2-128-116-21-3.roblox.com
 api.epicgames.dev
+api.kws.ol.epicgames.com
 api.minecraftservices.com
 api.steampowered.com
 apis.roblox.com
@@ -115,6 +116,8 @@ sin4-128-116-50-3.roblox.com
 sin6-128-116-54-3.roblox.com
 sin6c2-128-116-46-3.roblox.com
 sisu.xboxlive.com
+social-ban-public-service-prod.ccec.live.use1a.on.epicgames.com
+social-ban-public-service-prod.social.live.on.epicgames.com
 sony.com
 square-enix.com
 steamcommunity.com
