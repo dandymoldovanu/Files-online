@@ -126,6 +126,7 @@ prod.sucu.xboxlive.com
 pulsar.roblox.com
 qsearch-a.akamaihd.net
 realtime-signalr.roblox.com
+riotgames.com
 roblox.com
 rta.xboxlive.com
 sea1-128-116-115-3.roblox.com
@@ -145,6 +146,7 @@ square-enix.com
 steamcommunity.com
 steampowered.com
 steamstatic.com
+storefront.merch.riotgames.com
 supercell.com
 syd1-128-116-51-3.roblox.com
 talon-website-prod.ecosec.on.epicgames.com
