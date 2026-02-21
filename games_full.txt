@@ -2,6 +2,7 @@
 a15aivottevtad-a.akamaihd.net
 a204avoddashs3ww-a.akamaihd.net
 a225avoddashs3ww-a.akamaihd.net
+a278avoddashs3ww-a.akamaihd.net
 account-public-service-prod.ak.epicgames.com
 accountinformation.roblox.com
 accountsettings.roblox.com
@@ -47,6 +48,7 @@ da.xboxservices.com
 datarouter-weighted.ol.epicgames.com
 datarouter.cfef.live.use1a.on.epicgames.com
 datarouter.ol.epicgames.com
+develop.roblox.com
 device.auth.xboxlive.com
 dfw2-128-116-95-3.roblox.com
 economy.roblox.com
