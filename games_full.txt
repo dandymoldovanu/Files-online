@@ -138,6 +138,7 @@ title.mgt.xboxlive.com
 tracing.roblox.com
 tracking-site-prod.marketing.on.epicgames.com
 trades.roblox.com
+tv.update.me.sony.com
 twostepverification.roblox.com
 unrealengine.com
 updatepc.xboxlive.com
