@@ -29,6 +29,7 @@ b6bca90400a36894d7f7c57ddb09a67c159c501c.ack.me.sony.com
 badges.roblox.com
 beige.xboxservices.com
 bom1-128-116-104-3.roblox.com
+brawlstars-fs.inbox.supercell.com
 brawlstars.com
 brawlstars.inbox.supercell.com
 c33d91ed79433c2d0d62bc59f146ac2ee60b3b3a.ack.me.sony.com
@@ -47,6 +48,7 @@ clientsettings.roblox.com
 clientsettingscdn.roblox.com
 clientsettingsns1.rbxcdn.com
 cms-assets.unrealengine.com
+collector.snowplow.supercell.com
 components.unrealengine.com
 connect.epicgames.dev
 connect.ol.epicgames.com
