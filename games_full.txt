@@ -21,6 +21,7 @@ auth.roblox.com
 avatar.roblox.com
 b6bca90400a36894d7f7c57ddb09a67c159c501c.ack.me.sony.com
 badges.roblox.com
+beige.xboxservices.com
 bom1-128-116-104-3.roblox.com
 c33d91ed79433c2d0d62bc59f146ac2ee60b3b3a.ack.me.sony.com
 catalog-public-service-prod06.ol.epicgames.com
@@ -29,6 +30,7 @@ cdg2-128-116-13-3.roblox.com
 cdn-0001.qstv.on.epicgames.com
 cdn2-dest.unrealengine.com
 cdn2.unrealengine.com
+chat.xboxlive.com
 client-telemetry.roblox.com
 client-update.fastly.steamstatic.com
 clientconfig.akamai.steamstatic.com
@@ -92,6 +94,7 @@ mia4-128-116-45-3.roblox.com
 minecraftservices.com
 mojang.com
 ncs.roblox.com
+notificationinbox.xboxlive.com
 notifications.roblox.com
 nrt2-128-116-120-3.roblox.com
 ord2-128-116-48-3.roblox.com
@@ -109,6 +112,7 @@ pulsar.roblox.com
 qsearch-a.akamaihd.net
 realtime-signalr.roblox.com
 roblox.com
+rta.xboxlive.com
 sea1-128-116-115-3.roblox.com
 sessionserver.mojang.com
 shared.steamstatic.com
