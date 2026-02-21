@@ -29,11 +29,14 @@ b6bca90400a36894d7f7c57ddb09a67c159c501c.ack.me.sony.com
 badges.roblox.com
 beige.xboxservices.com
 bom1-128-116-104-3.roblox.com
+brawlstars.com
+brawlstars.inbox.supercell.com
 c33d91ed79433c2d0d62bc59f146ac2ee60b3b3a.ack.me.sony.com
 catalog-public-service-prod06.ol.epicgames.com
 catalog.roblox.com
 cdg2-128-116-13-3.roblox.com
 cdn-0001.qstv.on.epicgames.com
+cdn.id.supercell.com
 cdn2-dest.unrealengine.com
 cdn2.unrealengine.com
 chat.xboxlive.com
@@ -67,6 +70,7 @@ entitlement-public-service-prod08.ol.epicgames.com
 ephemeralcounters.api.roblox.com
 epicgames.com
 epicgames.dev
+event-assets.brawlstars.com
 fern.xboxservices.com
 ffxiv-login.square-enix.com
 followings.roblox.com
@@ -82,7 +86,9 @@ gru1-128-116-86-3.roblox.com
 iad2-128-116-56-3.roblox.com
 iad4-128-116-102-3.roblox.com
 iad5-44-197-17-243.roblox.com
+id.supercell.com
 images-eds-ssl.xboxlive.com
+inventory.mtech.supercell.com
 inventory.roblox.com
 launcher-public-service-prod06.ol.epicgames.com
 lax2-128-116-116-3.roblox.com
@@ -121,6 +127,7 @@ realtime-signalr.roblox.com
 roblox.com
 rta.xboxlive.com
 sea1-128-116-115-3.roblox.com
+security.id.supercell.com
 sessionserver.mojang.com
 shared.steamstatic.com
 silver.roblox.com
@@ -136,6 +143,7 @@ square-enix.com
 steamcommunity.com
 steampowered.com
 steamstatic.com
+supercell.com
 syd1-128-116-51-3.roblox.com
 talon-website-prod.ecosec.on.epicgames.com
 test.steampowered.com
