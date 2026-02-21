@@ -141,6 +141,7 @@ talon-website-prod.ecosec.on.epicgames.com
 test.steampowered.com
 thumbnails.roblox.com
 titanium.roblox.com
+title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tracing.roblox.com
 tracking-site-prod.marketing.on.epicgames.com
