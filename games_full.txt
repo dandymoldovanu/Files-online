@@ -67,6 +67,7 @@ dfw2-128-116-95-3.roblox.com
 economy.roblox.com
 ecsv2.roblox.com
 edge-term4-ams2.roblox.com
+edge-term4-cdg2.roblox.com
 edge-term4-fra2.roblox.com
 edge-term4-fra4.roblox.com
 edge-term4-lhr4.roblox.com
