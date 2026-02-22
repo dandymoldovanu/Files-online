@@ -79,9 +79,11 @@ followings.roblox.com
 fra2-128-116-5-3.roblox.com
 fra4-128-116-44-3.roblox.com
 friends.roblox.com
+galaxy-log.gog.com
 gameinternationalization.roblox.com
 gamejoin.roblox.com
 games.roblox.com
+gog.com
 gold.roblox.com
 groups.roblox.com
 gru1-128-116-86-3.roblox.com
