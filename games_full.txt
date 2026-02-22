@@ -37,6 +37,7 @@ catalog-public-service-prod06.ol.epicgames.com
 catalog.roblox.com
 cdg2-128-116-13-3.roblox.com
 cdn-0001.qstv.on.epicgames.com
+cdn.fastly.steamstatic.com
 cdn.id.supercell.com
 cdn2-dest.unrealengine.com
 cdn2.unrealengine.com
@@ -137,6 +138,7 @@ rta.xboxlive.com
 sea1-128-116-115-3.roblox.com
 security.id.supercell.com
 sessionserver.mojang.com
+shared.fastly.steamstatic.com
 shared.steamstatic.com
 silver.roblox.com
 sin2-128-116-97-3.roblox.com
@@ -151,6 +153,8 @@ square-enix.com
 steamcommunity.com
 steampowered.com
 steamstatic.com
+store.fastly.steamstatic.com
+store.steampowered.com
 storefront.merch.riotgames.com
 supercell.com
 syd1-128-116-51-3.roblox.com
