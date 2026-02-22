@@ -26,6 +26,7 @@ assets1.xboxlive.com
 atl1-128-116-99-3.roblox.com
 auth.roblox.com
 avatar.roblox.com
+avatars.fastly.steamstatic.com
 b6bca90400a36894d7f7c57ddb09a67c159c501c.ack.me.sony.com
 badges.roblox.com
 beige.xboxservices.com
@@ -51,6 +52,7 @@ clientsettingscdn.roblox.com
 clientsettingsns1.rbxcdn.com
 cms-assets.unrealengine.com
 collector.snowplow.supercell.com
+community.fastly.steamstatic.com
 components.unrealengine.com
 connect.epicgames.dev
 connect.ol.epicgames.com
@@ -90,6 +92,7 @@ gog.com
 gold.roblox.com
 groups.roblox.com
 gru1-128-116-86-3.roblox.com
+help.steampowered.com
 iad2-128-116-56-3.roblox.com
 iad4-128-116-102-3.roblox.com
 iad5-44-197-17-243.roblox.com
