@@ -13,6 +13,7 @@ accountsettings.roblox.com
 akamaihd.net
 ams2-128-116-21-3.roblox.com
 api.epicgames.dev
+api.gog.com
 api.kws.ol.epicgames.com
 api.minecraftservices.com
 api.steampowered.com
@@ -94,6 +95,8 @@ iad4-128-116-102-3.roblox.com
 iad5-44-197-17-243.roblox.com
 id.supercell.com
 images-eds-ssl.xboxlive.com
+images.gog.com
+insights-collector.gog.com
 inventory.mtech.supercell.com
 inventory.roblox.com
 launcher-public-service-prod06.ol.epicgames.com
@@ -107,6 +110,8 @@ library-service.live.use1a.on.epicgames.com
 lightswitch-public-service-prod06.ol.epicgames.com
 lms.roblox.com
 locale.roblox.com
+login.gog.com
+menu.gog.com
 metrics.roblox.com
 mia2-128-116-127-3.roblox.com
 mia4-128-116-45-3.roblox.com
@@ -186,6 +191,7 @@ weighted-epic-connect-manager-prod.ol.epicgames.com
 weighted-launcher-public-service-prod06.ol.epicgames.com
 weighted-lightswitch-public-service-prod06.ol.epicgames.com
 weighted-priceengine-public-service-prod.ol.epicgames.com
+www.gog.com
 www.roblox.com
 www.unrealengine.com
 xblmessaging.xboxlive.com
