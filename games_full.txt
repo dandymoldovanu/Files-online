@@ -83,6 +83,7 @@ galaxy-log.gog.com
 gameinternationalization.roblox.com
 gamejoin.roblox.com
 games.roblox.com
+gamingai.exp.xboxservices.com
 gog.com
 gold.roblox.com
 groups.roblox.com
@@ -113,9 +114,11 @@ mojang.com
 ncs.roblox.com
 notificationinbox.xboxlive.com
 notifications.roblox.com
+notify.xboxlive.com
 nrt2-128-116-120-3.roblox.com
 ord2-128-116-48-3.roblox.com
 packagespc.xboxlive.com
+peoplehub.xboxlive.com
 premiumfeatures.roblox.com
 presence-public-service-prod.ccec.live.use1a.on.epicgames.com
 presence-public-service-prod.ol.epicgames.com
@@ -181,6 +184,7 @@ weighted-lightswitch-public-service-prod06.ol.epicgames.com
 weighted-priceengine-public-service-prod.ol.epicgames.com
 www.roblox.com
 www.unrealengine.com
+xblmessaging.xboxlive.com
 xboxlive.com
 xboxservices.com
 xsts.auth.xboxlive.com
