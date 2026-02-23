@@ -21,6 +21,7 @@ apis.roblox.com
 arkoselabs.roblox.com
 assetdelivery.roblox.com
 assetgame.roblox.com
+assets-xbxweb.xbox.com
 assets.unrealengine.com
 assets1.xboxlive.com
 atl1-128-116-99-3.roblox.com
@@ -198,7 +199,9 @@ weighted-priceengine-public-service-prod.ol.epicgames.com
 www.gog.com
 www.roblox.com
 www.unrealengine.com
+www.xbox.com
 xblmessaging.xboxlive.com
+xbox.com
 xboxlive.com
 xboxservices.com
 xsts.auth.xboxlive.com
