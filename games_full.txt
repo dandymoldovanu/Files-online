@@ -123,6 +123,7 @@ lightswitch-public-service-prod06.ol.epicgames.com
 lms.roblox.com
 locale.roblox.com
 login.gog.com
+mawkymqx3f3dg2m5cypq-py8hhn-e667e3eb4-clientnsv4-s.akamaihd.net
 menu.gog.com
 metrics.roblox.com
 mia2-128-116-127-3.roblox.com
@@ -184,6 +185,7 @@ title.mgt.xboxlive.com
 tracing.roblox.com
 tracking-site-prod.marketing.on.epicgames.com
 trades.roblox.com
+trial-eum-clienttons-s.akamaihd.net
 tv.update.me.sony.com
 twostepverification.roblox.com
 unrealengine.com
