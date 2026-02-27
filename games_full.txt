@@ -138,6 +138,7 @@ mia4-128-116-45-3.roblox.com
 minecraftservices.com
 mojang.com
 ncs.roblox.com
+netease.com
 notificationinbox.xboxlive.com
 notifications.roblox.com
 notify.xboxlive.com
@@ -229,3 +230,5 @@ xbox.com
 xboxlive.com
 xboxservices.com
 xsts.auth.xboxlive.com
+yidun-aliyun-frankfurt.ntes53.netease.com
+yidun-oversea-aliyun.ntes53.netease.com
