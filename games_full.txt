@@ -136,6 +136,7 @@ metrics.roblox.com
 mia2-128-116-127-3.roblox.com
 mia4-128-116-45-3.roblox.com
 minecraftservices.com
+mirrors.cloud.tencent.com
 mojang.com
 ncs.roblox.com
 netease.com
@@ -190,6 +191,7 @@ storefront.merch.riotgames.com
 supercell.com
 syd1-128-116-51-3.roblox.com
 talon-website-prod.ecosec.on.epicgames.com
+tencent.com
 test.steampowered.com
 thumbnails.roblox.com
 titanium.roblox.com
