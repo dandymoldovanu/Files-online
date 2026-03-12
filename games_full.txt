@@ -198,6 +198,7 @@ thumbnails.roblox.com
 titanium.roblox.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
+titlehub.xboxlive.com
 tracing.roblox.com
 tracking-site-prod.marketing.on.epicgames.com
 tracking.epicgames.com
