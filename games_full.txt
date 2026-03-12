@@ -79,6 +79,7 @@ datarouter.ol.epicgames.com
 develop.roblox.com
 device.auth.xboxlive.com
 dfw2-128-116-95-3.roblox.com
+dlassets-ssl.xboxlive.com
 economy.roblox.com
 ecsv2.roblox.com
 edge-term4-ams2.roblox.com
