@@ -71,6 +71,7 @@ components.unrealengine.com
 connect.epicgames.dev
 connect.ol.epicgames.com
 contacts.roblox.com
+contentdelivery.roblox.com
 da.xboxservices.com
 datarouter-weighted.ol.epicgames.com
 datarouter.cfef.live.use1a.on.epicgames.com
