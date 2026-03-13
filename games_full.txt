@@ -1,9 +1,12 @@
 09ca873c3d335ba83ab53f79fa337d5e3754f654.ack.me.sony.com
 23f5f014825edbca5279d4b348e276aec2ce43ae.ack.me.sony.com
 a12avoddashs3ww-a.akamaihd.net
+a140avoddashs3ww-a.akamaihd.net
 a159avoddashs3ww-a.akamaihd.net
 a15aivottevtad-a.akamaihd.net
+a173avoddashs3ww-a.akamaihd.net
 a186avoddashs3ww-a.akamaihd.net
+a191avoddashs3ww-a.akamaihd.net
 a204avoddashs3ww-a.akamaihd.net
 a208avoddashs3ww-a.akamaihd.net
 a220avoddashs3ww-a.akamaihd.net
@@ -14,6 +17,7 @@ a23avoddashs3ww-a.akamaihd.net
 a244avoddashs3ww-a.akamaihd.net
 a268avoddashs3ww-a.akamaihd.net
 a278avoddashs3ww-a.akamaihd.net
+a279avoddashs3ww-a.akamaihd.net
 a286avoddashs3ww-a.akamaihd.net
 a28avoddashs3ww-a.akamaihd.net
 a33avoddashs3ww-a.akamaihd.net
