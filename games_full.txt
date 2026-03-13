@@ -107,6 +107,7 @@ epicgames.dev
 event-assets.brawlstars.com
 fern.xboxservices.com
 ffxiv-login.square-enix.com
+fintext-a.akamaihd.net
 followings.roblox.com
 fra2-128-116-5-3.roblox.com
 fra4-128-116-44-3.roblox.com
