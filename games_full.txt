@@ -175,6 +175,7 @@ qsearch-a.akamaihd.net
 realtime-signalr.roblox.com
 riotgames.com
 roblox.com
+rockstargames.com
 rta.xboxlive.com
 sea1-128-116-115-3.roblox.com
 security.id.supercell.com
@@ -240,6 +241,7 @@ weighted-row-www.epicgames.com
 www.epicgames.com
 www.gog.com
 www.roblox.com
+www.rockstargames.com
 www.unrealengine.com
 www.xbox.com
 xblmessaging.xboxlive.com
