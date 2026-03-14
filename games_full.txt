@@ -228,6 +228,7 @@ user.auth.xboxlive.com
 usermoderation.roblox.com
 users.roblox.com
 voice.roblox.com
+webblox.roblox.com
 weighted-account-public-service-prod.ak.epicgames.com
 weighted-account-service-prod-pub-ak.faef.live.use1a.on.epicgames.com
 weighted-catalog-public-service-live.ol.epicgames.com
