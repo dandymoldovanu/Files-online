@@ -60,6 +60,7 @@ cdg2-128-116-13-3.roblox.com
 cdn-0001.qstv.on.epicgames.com
 cdn.fastly.steamstatic.com
 cdn.id.supercell.com
+cdn.supercell.com
 cdn1-dest.epicgames.com
 cdn1-dest.unrealengine.com
 cdn1.epicgames.com
@@ -107,6 +108,7 @@ ephemeralcounters.api.roblox.com
 epicgames.com
 epicgames.dev
 event-assets.brawlstars.com
+event.supercell.com
 fern.xboxservices.com
 ffxiv-login.square-enix.com
 fintext-a.akamaihd.net
