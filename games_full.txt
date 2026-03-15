@@ -60,6 +60,7 @@ catalog-public-service-prod06.ol.epicgames.com
 catalog.roblox.com
 cdg2-128-116-13-3.roblox.com
 cdn-0001.qstv.on.epicgames.com
+cdn.akamai.steamstatic.com
 cdn.fastly.steamstatic.com
 cdn.id.supercell.com
 cdn.supercell.com
@@ -71,6 +72,7 @@ cdn2-dest.unrealengine.com
 cdn2.epicgames.com
 cdn2.unrealengine.com
 chat.xboxlive.com
+clan.akamai.steamstatic.com
 clan.fastly.steamstatic.com
 client-telemetry.roblox.com
 client-update.fastly.steamstatic.com
