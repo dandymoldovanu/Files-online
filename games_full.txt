@@ -28,6 +28,7 @@ account-public-service-prod.ak.epicgames.com
 accountinformation.roblox.com
 accounts.supercell.com
 accountsettings.roblox.com
+ads.roblox.com
 akamaihd.net
 ams2-128-116-21-3.roblox.com
 api.epicgames.dev
