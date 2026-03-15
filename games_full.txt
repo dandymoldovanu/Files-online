@@ -46,6 +46,7 @@ assets1.xboxlive.com
 atl1-128-116-99-3.roblox.com
 auth.roblox.com
 avatar.roblox.com
+avatars.akamai.steamstatic.com
 avatars.fastly.steamstatic.com
 b6bca90400a36894d7f7c57ddb09a67c159c501c.ack.me.sony.com
 badges.roblox.com
@@ -70,6 +71,7 @@ cdn2-dest.unrealengine.com
 cdn2.epicgames.com
 cdn2.unrealengine.com
 chat.xboxlive.com
+clan.fastly.steamstatic.com
 client-telemetry.roblox.com
 client-update.fastly.steamstatic.com
 clientconfig.akamai.steamstatic.com
@@ -199,6 +201,8 @@ sony.com
 square-enix.com
 static-assets-prod-dest.epicgames.com
 static-assets-prod.epicgames.com
+steamcdn-a.akamaihd.net
+steamcommunity-a.akamaihd.net
 steamcommunity.com
 steampowered.com
 steamstatic.com
@@ -231,6 +235,7 @@ us-central-origin-px.roblox.com
 user.auth.xboxlive.com
 usermoderation.roblox.com
 users.roblox.com
+video.fastly.steamstatic.com
 voice.roblox.com
 webblox.roblox.com
 weighted-account-public-service-prod.ak.epicgames.com
