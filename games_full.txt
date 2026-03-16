@@ -141,6 +141,7 @@ images.gog.com
 insights-collector.gog.com
 inventory.mtech.supercell.com
 inventory.roblox.com
+kjk4jl5n3zvb22nyilrq-f-e3a847c0a-clientnsv4-s.akamaihd.net
 launcher-public-service-prod06.ol.epicgames.com
 lax2-128-116-116-3.roblox.com
 lax4-128-116-63-3.roblox.com
