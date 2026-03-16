@@ -144,6 +144,7 @@ inventory.roblox.com
 launcher-public-service-prod06.ol.epicgames.com
 lax2-128-116-116-3.roblox.com
 lax4-128-116-63-3.roblox.com
+lg3-a.akamaihd.net
 lga2-128-116-32-3.roblox.com
 lhr2-128-116-33-3.roblox.com
 lhr4-128-116-31-3.roblox.com
