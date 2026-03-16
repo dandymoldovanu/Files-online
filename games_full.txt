@@ -1,6 +1,8 @@
 09ca873c3d335ba83ab53f79fa337d5e3754f654.ack.me.sony.com
 23f5f014825edbca5279d4b348e276aec2ce43ae.ack.me.sony.com
 a12avoddashs3ww-a.akamaihd.net
+a132avoddashs3ww-a.akamaihd.net
+a139avoddashs3ww-a.akamaihd.net
 a140avoddashs3ww-a.akamaihd.net
 a159avoddashs3ww-a.akamaihd.net
 a15aivottevtad-a.akamaihd.net
@@ -21,7 +23,9 @@ a279avoddashs3ww-a.akamaihd.net
 a286avoddashs3ww-a.akamaihd.net
 a28avoddashs3ww-a.akamaihd.net
 a33avoddashs3ww-a.akamaihd.net
+a45avoddashs3ww-a.akamaihd.net
 a47avoddashs3ww-a.akamaihd.net
+a64avoddashs3ww-a.akamaihd.net
 a78avoddashs3ww-a.akamaihd.net
 a99avoddashs3ww-a.akamaihd.net
 account-public-service-prod.ak.epicgames.com
