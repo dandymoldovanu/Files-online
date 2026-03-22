@@ -7,10 +7,12 @@ a140avoddashs3ww-a.akamaihd.net
 a158avoddashs3ww-a.akamaihd.net
 a159avoddashs3ww-a.akamaihd.net
 a15aivottevtad-a.akamaihd.net
+a165avoddashs3ww-a.akamaihd.net
 a173avoddashs3ww-a.akamaihd.net
 a182avodhlss3ww-a.akamaihd.net
 a186avoddashs3ww-a.akamaihd.net
 a191avoddashs3ww-a.akamaihd.net
+a19avoddashs3ww-a.akamaihd.net
 a204avoddashs3ww-a.akamaihd.net
 a206avoddashs3ww-a.akamaihd.net
 a208avoddashs3ww-a.akamaihd.net
@@ -22,6 +24,7 @@ a233avoddashs3ww-a.akamaihd.net
 a23avoddashs3ww-a.akamaihd.net
 a244avoddashs3ww-a.akamaihd.net
 a268avoddashs3ww-a.akamaihd.net
+a276avoddashs3ww-a.akamaihd.net
 a278avoddashs3ww-a.akamaihd.net
 a279avoddashs3ww-a.akamaihd.net
 a286avoddashs3ww-a.akamaihd.net
@@ -31,6 +34,7 @@ a45avoddashs3ww-a.akamaihd.net
 a47avoddashs3ww-a.akamaihd.net
 a64avoddashs3ww-a.akamaihd.net
 a78avoddashs3ww-a.akamaihd.net
+a97avoddashs3ww-a.akamaihd.net
 a99avoddashs3ww-a.akamaihd.net
 account-public-service-prod.ak.epicgames.com
 accountinformation.roblox.com
