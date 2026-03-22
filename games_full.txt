@@ -239,6 +239,7 @@ tracing.roblox.com
 tracking-site-prod.marketing.on.epicgames.com
 tracking.epicgames.com
 trades.roblox.com
+trck.wargaming.net
 trial-eum-clienttons-s.akamaihd.net
 tv.update.me.sony.com
 twostepverification.roblox.com
@@ -250,6 +251,7 @@ usermoderation.roblox.com
 users.roblox.com
 video.fastly.steamstatic.com
 voice.roblox.com
+wargaming.net
 webblox.roblox.com
 weighted-account-public-service-prod.ak.epicgames.com
 weighted-account-service-prod-pub-ak.faef.live.use1a.on.epicgames.com
