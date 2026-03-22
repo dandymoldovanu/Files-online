@@ -54,6 +54,7 @@ auth.roblox.com
 avatar.roblox.com
 avatars.akamai.steamstatic.com
 avatars.fastly.steamstatic.com
+avoddashs3ww-a.akamaihd.net
 b6bca90400a36894d7f7c57ddb09a67c159c501c.ack.me.sony.com
 badges.roblox.com
 beige.xboxservices.com
