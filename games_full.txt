@@ -78,6 +78,7 @@ cdn1.unrealengine.com
 cdn2-dest.unrealengine.com
 cdn2.epicgames.com
 cdn2.unrealengine.com
+chat.roblox.com
 chat.xboxlive.com
 clan.akamai.steamstatic.com
 clan.fastly.steamstatic.com
