@@ -70,6 +70,7 @@ auth.roblox.com
 avatar.roblox.com
 avatars.akamai.steamstatic.com
 avatars.fastly.steamstatic.com
+avatars.steamstatic.com
 avoddashs3ww-a.akamaihd.net
 b6bca90400a36894d7f7c57ddb09a67c159c501c.ack.me.sony.com
 badges.roblox.com
@@ -99,6 +100,7 @@ chat.roblox.com
 chat.xboxlive.com
 clan.akamai.steamstatic.com
 clan.fastly.steamstatic.com
+clan.steamstatic.com
 client-telemetry.roblox.com
 client-update.akamai.steamstatic.com
 client-update.fastly.steamstatic.com
@@ -164,6 +166,7 @@ iad5-44-197-17-243.roblox.com
 id.supercell.com
 images-eds-ssl.xboxlive.com
 images.gog.com
+images.steamusercontent.com
 insights-collector.gog.com
 inventory.mtech.supercell.com
 inventory.roblox.com
@@ -237,6 +240,7 @@ steamcommunity-a.akamaihd.net
 steamcommunity.com
 steampowered.com
 steamstatic.com
+steamusercontent.com
 store-site-backend-static-ipv4.ak.epicgames.com
 store-weighted-cdn.epicgames.com
 store.epicgames.com
