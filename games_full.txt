@@ -100,6 +100,7 @@ chat.xboxlive.com
 clan.akamai.steamstatic.com
 clan.fastly.steamstatic.com
 client-telemetry.roblox.com
+client-update.akamai.steamstatic.com
 client-update.fastly.steamstatic.com
 clientconfig.akamai.steamstatic.com
 clientsettings.roblox.com
