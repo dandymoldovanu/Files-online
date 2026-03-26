@@ -105,6 +105,7 @@ clan.steamstatic.com
 client-telemetry.roblox.com
 client-update.akamai.steamstatic.com
 client-update.fastly.steamstatic.com
+client-update.steamstatic.com
 clientconfig.akamai.steamstatic.com
 clientsettings.roblox.com
 clientsettingscdn.roblox.com
