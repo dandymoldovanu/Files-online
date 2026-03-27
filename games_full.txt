@@ -273,6 +273,7 @@ updatepc.xboxlive.com
 us-central-origin-px.roblox.com
 user.auth.xboxlive.com
 usermoderation.roblox.com
+userpresence.xboxlive.com
 users.roblox.com
 video.fastly.steamstatic.com
 voice.roblox.com
