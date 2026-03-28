@@ -36,6 +36,7 @@ a278avoddashs3ww-a.akamaihd.net
 a279avoddashs3ww-a.akamaihd.net
 a286avoddashs3ww-a.akamaihd.net
 a28avoddashs3ww-a.akamaihd.net
+a301avoddashs3ww-a.akamaihd.net
 a308avoddashs3ww-a.akamaihd.net
 a33avoddashs3ww-a.akamaihd.net
 a41avoddashs3ww-a.akamaihd.net
@@ -48,6 +49,7 @@ a78avoddashs3ww-a.akamaihd.net
 a83avoddashs3ww-a.akamaihd.net
 a88avoddashs3ww-a.akamaihd.net
 a89avoddashs3ww-a.akamaihd.net
+a95avoddashs3ww-a.akamaihd.net
 a97avoddashs3ww-a.akamaihd.net
 a99avoddashs3ww-a.akamaihd.net
 account-public-service-prod.ak.epicgames.com
