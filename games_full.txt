@@ -226,6 +226,7 @@ rockstargames.com
 rta.xboxlive.com
 sea1-128-116-115-3.roblox.com
 security.id.supercell.com
+sessiondirectory.xboxlive.com
 sessionserver.mojang.com
 shared.fastly.steamstatic.com
 shared.steamstatic.com
