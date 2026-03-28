@@ -240,6 +240,7 @@ sea1-128-116-115-3.roblox.com
 security.id.supercell.com
 sessiondirectory.xboxlive.com
 sessionserver.mojang.com
+shared.akamai.steamstatic.com
 shared.fastly.steamstatic.com
 shared.steamstatic.com
 silver.roblox.com
@@ -262,6 +263,7 @@ steamstatic.com
 steamusercontent.com
 store-site-backend-static-ipv4.ak.epicgames.com
 store-weighted-cdn.epicgames.com
+store.akamai.steamstatic.com
 store.epicgames.com
 store.fastly.steamstatic.com
 store.steampowered.com
