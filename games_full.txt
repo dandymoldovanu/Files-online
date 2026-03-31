@@ -257,6 +257,7 @@ prod.sucu.xboxlive.com
 pulsar.roblox.com
 qsearch-a.akamaihd.net
 realtime-signalr.roblox.com
+reperformmedia-a.akamaihd.net
 rewarded-video.roblox.com
 riotgames.com
 roblox.com
