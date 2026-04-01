@@ -301,6 +301,7 @@ talon-website-prod.ecosec.on.epicgames.com
 tencent.com
 test.steampowered.com
 thumbnails.roblox.com
+titanium-private.roblox.com
 titanium.roblox.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
