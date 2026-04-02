@@ -144,6 +144,7 @@ cdn2.epicgames.com
 cdn2.unrealengine.com
 chat.roblox.com
 chat.xboxlive.com
+chronoodyssey.kakaogames.com
 clan.akamai.steamstatic.com
 clan.fastly.steamstatic.com
 clan.steamstatic.com
@@ -218,6 +219,7 @@ images.steamusercontent.com
 insights-collector.gog.com
 inventory.mtech.supercell.com
 inventory.roblox.com
+kakaogames.com
 kjk4jl5n3zvb22nyilrq-f-e3a847c0a-clientnsv4-s.akamaihd.net
 kjk4jlycc7tu42ojjvna-pelr7b-3262628a7-clientnsv4-s.akamaihd.net
 launcher-public-service-prod06.ol.epicgames.com
