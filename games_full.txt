@@ -1,4 +1,5 @@
 09ca873c3d335ba83ab53f79fa337d5e3754f654.ack.me.sony.com
+1c04691f14f85ad285ebb3d2ffa4aef0.baas.nintendo.com
 23f5f014825edbca5279d4b348e276aec2ce43ae.ack.me.sony.com
 a100avoddashs3ww-a.akamaihd.net
 a100avodhlss3ww-a.akamaihd.net
@@ -262,6 +263,7 @@ mirrors.cloud.tencent.com
 mojang.com
 ncs.roblox.com
 netease.com
+nintendo.com
 notificationinbox.xboxlive.com
 notifications.roblox.com
 notify.xboxlive.com
