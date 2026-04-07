@@ -285,6 +285,7 @@ privacy.xboxlive.com
 privatemessages.roblox.com
 prod.sucu.xboxlive.com
 pulsar.roblox.com
+pxlclnmdecom-a.akamaihd.net
 qsearch-a.akamaihd.net
 realtime-signalr.roblox.com
 reperformmedia-a.akamaihd.net
