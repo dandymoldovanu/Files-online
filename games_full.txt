@@ -346,6 +346,7 @@ trial-eum-clientnsv4-s.akamaihd.net
 trial-eum-clienttons-s.akamaihd.net
 tv.update.me.sony.com
 twostepverification.roblox.com
+unlock.me.sony.com
 unrealengine.com
 updatepc.xboxlive.com
 us-central-origin-px.roblox.com
