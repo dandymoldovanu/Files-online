@@ -264,6 +264,7 @@ lms.roblox.com
 locale.roblox.com
 login.gog.com
 mawkymqx3f3dg2m5cypq-py8hhn-e667e3eb4-clientnsv4-s.akamaihd.net
+media.bach.me.sony.com
 menu.gog.com
 metrics.roblox.com
 mia2-128-116-127-3.roblox.com
