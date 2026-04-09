@@ -383,6 +383,7 @@ www.gog.com
 www.nintendo.com
 www.roblox.com
 www.rockstargames.com
+www.sony.com
 www.unrealengine.com
 www.xbox.com
 xblmessaging.xboxlive.com
