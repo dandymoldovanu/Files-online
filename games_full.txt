@@ -305,6 +305,8 @@ rockstargames.com
 rta.xboxlive.com
 sa.sde.sony.com
 sea1-128-116-115-3.roblox.com
+security-apac.id.supercell.com
+security-eu.id.supercell.com
 security.id.supercell.com
 sessiondirectory.xboxlive.com
 sessionserver.mojang.com
