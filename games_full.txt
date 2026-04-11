@@ -298,6 +298,7 @@ pulsar.roblox.com
 pxlclnmdecom-a.akamaihd.net
 qsearch-a.akamaihd.net
 realtime-signalr.roblox.com
+realtime.roblox.com
 reperformmedia-a.akamaihd.net
 rewarded-video.roblox.com
 riotgames.com
