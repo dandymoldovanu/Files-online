@@ -284,6 +284,7 @@ notify.xboxlive.com
 nrt2-128-116-120-3.roblox.com
 ord2-128-116-48-3.roblox.com
 packagespc.xboxlive.com
+pc.realms.minecraft.net
 peoplehub.xboxlive.com
 piston-meta.mojang.com
 premiumfeatures.roblox.com
