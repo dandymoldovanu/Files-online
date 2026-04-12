@@ -284,6 +284,7 @@ nrt2-128-116-120-3.roblox.com
 ord2-128-116-48-3.roblox.com
 packagespc.xboxlive.com
 peoplehub.xboxlive.com
+piston-meta.mojang.com
 premiumfeatures.roblox.com
 presence-public-service-prod.ccec.live.use1a.on.epicgames.com
 presence-public-service-prod.ol.epicgames.com
