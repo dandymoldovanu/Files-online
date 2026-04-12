@@ -270,6 +270,7 @@ menu.gog.com
 metrics.roblox.com
 mia2-128-116-127-3.roblox.com
 mia4-128-116-45-3.roblox.com
+minecraft.net
 minecraftservices.com
 mirrors.cloud.tencent.com
 mojang.com
@@ -301,6 +302,7 @@ qsearch-a.akamaihd.net
 realtime-signalr.roblox.com
 realtime.roblox.com
 reperformmedia-a.akamaihd.net
+resources.download.minecraft.net
 rewarded-video.roblox.com
 riotgames.com
 roblox.com
