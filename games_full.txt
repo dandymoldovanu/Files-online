@@ -18,6 +18,7 @@ a140avoddashs3ww-a.akamaihd.net
 a142avoddashs3ww-a.akamaihd.net
 a145avoddashs3ww-a.akamaihd.net
 a146avoddashs3ww-a.akamaihd.net
+a150avodhlss3ww-a.akamaihd.net
 a155avoddashs3ww-a.akamaihd.net
 a158avoddashs3ww-a.akamaihd.net
 a159avoddashs3ww-a.akamaihd.net
@@ -40,6 +41,7 @@ a192avodhlss3ww-a.akamaihd.net
 a193avoddashs3ww-a.akamaihd.net
 a19avoddashs3ww-a.akamaihd.net
 a202avoddashs3ww-a.akamaihd.net
+a202avodhlss3ww-a.akamaihd.net
 a204avoddashs3ww-a.akamaihd.net
 a206avoddashs3ww-a.akamaihd.net
 a208avoddashs3ww-a.akamaihd.net
@@ -99,6 +101,7 @@ a47avoddashs3ww-a.akamaihd.net
 a47avodhlss3ww-a.akamaihd.net
 a50avoddashs3ww-a.akamaihd.net
 a51avoddashs3ww-a.akamaihd.net
+a56avodhlss3ww-a.akamaihd.net
 a62avodhlss3ww-a.akamaihd.net
 a64avoddashs3ww-a.akamaihd.net
 a67avoddashs3ww-a.akamaihd.net
