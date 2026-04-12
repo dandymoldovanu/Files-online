@@ -349,6 +349,7 @@ syd1-128-116-51-3.roblox.com
 talon-website-prod.ecosec.on.epicgames.com
 tencent.com
 test.steampowered.com
+textures.minecraft.net
 thumbnails.roblox.com
 titanium-private.roblox.com
 titanium.roblox.com
