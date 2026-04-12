@@ -29,6 +29,7 @@ a165avoddashs3ww-a.akamaihd.net
 a165avodhlss3ww-a.akamaihd.net
 a168avodhlss3ww-a.akamaihd.net
 a170avoddashs3ww-a.akamaihd.net
+a172avoddashs3ww-a.akamaihd.net
 a173avoddashs3ww-a.akamaihd.net
 a174avodhlss3ww-a.akamaihd.net
 a179avoddashs3ww-a.akamaihd.net
@@ -68,6 +69,7 @@ a258avodhlss3ww-a.akamaihd.net
 a259avoddashs3ww-a.akamaihd.net
 a259avodhlss3ww-a.akamaihd.net
 a261avodhlss3ww-a.akamaihd.net
+a263avoddashs3ww-a.akamaihd.net
 a265avoddashs3ww-a.akamaihd.net
 a268avoddashs3ww-a.akamaihd.net
 a273avoddashs3ww-a.akamaihd.net
