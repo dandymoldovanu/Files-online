@@ -266,8 +266,10 @@ inventory.mtech.supercell.com
 inventory.roblox.com
 kakaogames.com
 kjk4jl5n3zvb22nyilrq-f-e3a847c0a-clientnsv4-s.akamaihd.net
+kjk4jlycc34kk2o6sgka-f-d55eb932a-clientnsv4-s.akamaihd.net
 kjk4jlycc7tu42ojjvna-pelr7b-3262628a7-clientnsv4-s.akamaihd.net
 kjk4jlycc7tv62o6saqq-pztqnw-37c5c3f6d-clientnsv4-s.akamaihd.net
+kjk4jlycc7tv62o6sgla-pfms82-06a377932-clientnsv4-s.akamaihd.net
 launcher-public-service-prod06.ol.epicgames.com
 launchercontent.mojang.com
 launchermeta.mojang.com
