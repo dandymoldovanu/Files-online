@@ -341,6 +341,7 @@ priceengine-public-service-prod.cdce.live.use1a.on.epicgames.com
 privacy.xboxlive.com
 privatemessages.roblox.com
 prod.sucu.xboxlive.com
+profile.xboxlive.com
 promo.register.me.sony.com
 pulsar.roblox.com
 pxlclnmdecom-a.akamaihd.net
