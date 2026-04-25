@@ -176,6 +176,7 @@ arkoselabs.roblox.com
 assetdelivery.roblox.com
 assetgame.roblox.com
 assets-xbxweb.xbox.com
+assets.social.supercell.com
 assets.unrealengine.com
 assets1.xboxlive.com
 atl1-128-116-99-3.roblox.com
@@ -349,6 +350,7 @@ privatemessages.roblox.com
 prod.sucu.xboxlive.com
 profile.xboxlive.com
 promo.register.me.sony.com
+proxy.social.supercell.com
 pulsar.roblox.com
 pxlclnmdecom-a.akamaihd.net
 qsearch-a.akamaihd.net
