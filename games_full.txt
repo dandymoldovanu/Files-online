@@ -272,6 +272,7 @@ epicgames.com
 epicgames.dev
 event-assets.brawlstars.com
 event.supercell.com
+fanpage-a.akamaihd.net
 fern.xboxservices.com
 ffxiv-login.square-enix.com
 fintext-a.akamaihd.net
