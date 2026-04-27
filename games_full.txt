@@ -177,6 +177,7 @@ api.epicgames.dev
 api.gog.com
 api.kws.ol.epicgames.com
 api.minecraftservices.com
+api.mojang.com
 api.steampowered.com
 apis.roblox.com
 apps.accounts.nintendo.com
