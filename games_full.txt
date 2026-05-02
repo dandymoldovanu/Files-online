@@ -412,6 +412,7 @@ store.fastly.steamstatic.com
 store.steampowered.com
 storefront.merch.riotgames.com
 supercell.com
+support.supercell.com
 syd1-128-116-51-3.roblox.com
 talon-website-prod.ecosec.on.epicgames.com
 tencent.com
